@@ -6,5 +6,7 @@ int main() {
     *p = 5;
     printf("%d", *p);
     free(p);
+    p = NULL;
+    free(p);
     return 0;
 }
