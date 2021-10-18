@@ -1,0 +1,3 @@
+C:/Users/TO/CLionProjects/CMemoryAlloc/cmake-build-debug/CMakeFiles/CMemoryAlloc.dir
+C:/Users/TO/CLionProjects/CMemoryAlloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TO/CLionProjects/CMemoryAlloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
