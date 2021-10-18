@@ -1,6 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
-    printf("Hello, World!\n");
+    int *p = malloc(sizeof(int));
+    *p = 5;
+    printf("%d", *p);
+    free(p);
     return 0;
 }
